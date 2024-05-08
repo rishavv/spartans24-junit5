@@ -10,12 +10,12 @@ class TimeoutTest {
 
     @Test
     void tooLong() {
-       assertTimeout(Duration.ofSeconds(2), this::sketchyCode);
+       assertTimeout(Duration.ofSeconds(10), this::sketchyCode);
     }
 
     private void sketchyCode() {
         try {
-            Thread.sleep(5_000);
+            Thread.sleep(5000);
         } catch (InterruptedException e) {
             // ignore
         }

@@ -6,7 +6,6 @@ com/phenom/training/junit5/patterns/TimeoutTest.class
 com/phenom/training/junit5/basics/OrderedFlowTest.class
 com/phenom/training/junit5/patterns/DisplayNameTest.class
 com/phenom/training/junit5/demo/BbqTest.class
-com/phenom/training/junit5/extensions/RetryTest.class
 com/phenom/training/junit5/basics/ReportTest.class
 com/phenom/training/junit5/patterns/TagTest.class
 com/phenom/training/junit5/basics/AssertsTest.class
@@ -15,7 +14,6 @@ com/phenom/training/junit5/patterns/AssumingTest.class
 com/phenom/training/junit5/patterns/LinuxOnlyTest.class
 com/phenom/training/junit5/basics/AssertionExamplesTest.class
 com/phenom/training/junit5/patterns/RepeatingTest.class
-com/phenom/training/junit5/patterns/DependentAssertionsTest.class
 com/phenom/training/junit5/extensions/ParamsTest$Env.class
 com/phenom/training/junit5/extensions/MockingTest.class
 com/phenom/training/junit5/basics/ReportWithCacheTest.class
