@@ -1,9 +1,0 @@
-com/phenom/training/junit5/extensions/Processor.class
-com/phenom/training/junit5/patterns/Record.class
-com/phenom/training/junit5/basics/Report.class
-com/phenom/training/junit5/patterns/HelloWorld.class
-com/phenom/training/junit5/basics/Adder.class
-com/phenom/training/junit5/patterns/Exceptions.class
-com/phenom/training/junit5/basics/ReportWithCache.class
-com/phenom/training/junit5/extensions/Enabled.class
-com/phenom/training/junit5/patterns/Bean.class

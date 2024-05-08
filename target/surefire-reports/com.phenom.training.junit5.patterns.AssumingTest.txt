@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.phenom.training.junit5.patterns.AssumingTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.004 s -- in com.phenom.training.junit5.patterns.AssumingTest
