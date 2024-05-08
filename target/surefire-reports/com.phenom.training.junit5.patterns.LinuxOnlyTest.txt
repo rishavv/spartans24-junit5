@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.phenom.training.junit5.patterns.LinuxOnlyTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.005 s -- in com.phenom.training.junit5.patterns.LinuxOnlyTest
